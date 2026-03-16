@@ -9,6 +9,8 @@ Designed for founders, VPs of Finance, and RevOps teams who need
 a single pane of glass for subscription business performance.
 """
 
+from __future__ import annotations
+
 import json
 from pathlib import Path
 from typing import Any

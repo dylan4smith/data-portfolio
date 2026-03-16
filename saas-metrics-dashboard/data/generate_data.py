@@ -5,6 +5,8 @@ Simulates 24 months of subscription business data including MRR,
 churn, new customers, expansion revenue, and support tickets.
 """
 
+from __future__ import annotations
+
 import csv
 import json
 import random
