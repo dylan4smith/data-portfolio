@@ -1,0 +1,11 @@
+id,vendor,date_issued,date_due,gross_amount,currency,expense_type,paid
+C-3001,Gamma Logistics,2025-01-08,2025-02-08,3200.00,USD,Shipping,Yes
+C-3002,Gamma Logistics,2025-01-20,2025-02-20,1450.00,EUR,Warehousing,No
+C-3003,Gamma Logistics,2025-02-05,2025-03-05,5800.00,USD,Shipping,Yes
+C-3004,Gamma Logistics,2025-02-18,2025-03-18,2100.00,USD,Freight Insurance,Yes
+C-3005,Gamma Logistics,2025-03-02,2025-04-02,890.00,GBP,Warehousing,No
+C-3006,Gamma Logistics,2025-03-14,2025-04-14,4500.00,USD,Shipping,Yes
+C-3007,Gamma Logistics,2025-03-28,2025-04-28,1200.00,EUR,Freight Insurance,No
+C-3008,Gamma Logistics,2025-04-05,2025-05-05,6700.00,USD,Shipping,Yes
+C-3009,Gamma Logistics,2025-04-12,2025-05-12,3350.00,USD,Warehousing,Yes
+C-3010,Gamma Logistics,2025-04-22,2025-05-22,950.00,USD,Shipping,No

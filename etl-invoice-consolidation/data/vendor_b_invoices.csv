@@ -1,0 +1,11 @@
+InvoiceNumber,Date,Vendor,Total,Tax,Net,Category,Status
+B-2001,01/10/2025,Beta Technologies,5600.00,460.00,5140.00,Software Licenses,PAID
+B-2002,01/25/2025,Beta Technologies,3400.00,280.00,3120.00,Cloud Services,UNPAID
+B-2003,02/08/2025,Beta Technologies,12000.00,990.00,11010.00,Software Licenses,PAID
+B-2004,02/20/2025,Beta Technologies,780.50,64.35,716.15,Cloud Services,PAID
+B-2005,03/01/2025,Beta Technologies,9500.00,783.75,8716.25,Consulting,UNPAID
+B-2006,03/15/2025,Beta Technologies,2200.00,181.50,2018.50,Software Licenses,PAID
+B-2007,03/22/2025,Beta Technologies,bad_amount,0.00,0.00,Cloud Services,PAID
+B-2008,04/02/2025,Beta Technologies,4100.00,338.25,3761.75,Software Licenses,UNPAID
+B-2009,04/15/2025,Beta Technologies,1650.00,136.13,1513.88,Cloud Services,PAID
+B-2010,04/20/2025,Beta Technologies,7800.00,643.50,7156.50,Consulting,PAID

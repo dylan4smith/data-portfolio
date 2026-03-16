@@ -1,0 +1,11 @@
+invoice_id,vendor_name,invoice_date,amount_usd,category,payment_status,due_date
+A-1001,Acme Supply Co,2025-01-15,4500.00,Office Supplies,Paid,2025-02-15
+A-1002,Acme Supply Co,2025-01-22,1250.75,IT Equipment,Pending,2025-02-22
+A-1003,Acme Supply Co,2025-02-03,890.00,Office Supplies,Paid,2025-03-03
+A-1004,Acme Supply Co,2025-02-14,,Consulting Services,Overdue,2025-03-14
+A-1005,Acme Supply Co,2025-02-28,3200.50,IT Equipment,Paid,2025-03-28
+A-1006,Acme Supply Co,2025-03-05,675.25,Office Supplies,Pending,2025-04-05
+A-1007,Acme Supply Co,2025-03-12,15000.00,Consulting Services,Paid,2025-04-12
+A-1008,Acme Supply Co,2025-03-20,-500.00,Office Supplies,Paid,2025-04-20
+A-1009,Acme Supply Co,2025-04-01,2100.00,IT Equipment,Pending,2025-05-01
+A-1010,Acme Supply Co,2025-04-10,980.00,Office Supplies,Paid,2025-05-10
