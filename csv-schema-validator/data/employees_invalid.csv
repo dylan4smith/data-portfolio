@@ -1,0 +1,9 @@
+employee_id,first_name,last_name,email,department,salary,hire_date,is_active
+EMP-00101,Sarah,Chen,sarah.chen@acme.com,Engineering,125000.00,2021-03-15,true
+BAD_ID,James,Rivera,james.rivera@acme.com,Sales,87500.50,2020-07-01,true
+EMP-00312,,Patel,priya.patel@acme.com,Marketing,92000.00,2019-11-20,true
+EMP-00478,Marcus,Thompson,not-an-email,Finance,105000.00,2022-01-10,true
+EMP-00523,Elena,Kozlov,elena.kozlov@acme.com,Legal,78000.00,2023-05-22,false
+EMP-00641,David,Okafor,david.okafor@acme.com,Operations,15000.00,2018-09-03,true
+EMP-00755,Lisa,Yamamoto,lisa.y@acme.com,Engineering,145000.00,June 2017,true
+EMP-00889,Ahmed,Hassan,ahmed.hassan@acme.com,Sales,82000.00,2024-02-28,maybe

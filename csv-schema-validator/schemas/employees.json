@@ -1,0 +1,66 @@
+{
+  "name": "employee_roster",
+  "description": "Schema for validating employee roster CSV exports from HR systems.",
+  "allow_extra_columns": false,
+  "columns": [
+    {
+      "name": "employee_id",
+      "dtype": "string",
+      "required": true,
+      "nullable": false,
+      "pattern": "^EMP-\\d{5}$",
+      "min_length": 9,
+      "max_length": 9
+    },
+    {
+      "name": "first_name",
+      "dtype": "string",
+      "required": true,
+      "nullable": false,
+      "min_length": 1,
+      "max_length": 50
+    },
+    {
+      "name": "last_name",
+      "dtype": "string",
+      "required": true,
+      "nullable": false,
+      "min_length": 1,
+      "max_length": 50
+    },
+    {
+      "name": "email",
+      "dtype": "string",
+      "required": true,
+      "nullable": false,
+      "pattern": "^[\\w.+-]+@[\\w-]+\\.[\\w.]+$"
+    },
+    {
+      "name": "department",
+      "dtype": "string",
+      "required": true,
+      "nullable": false,
+      "allowed_values": ["Engineering", "Sales", "Marketing", "Finance", "HR", "Operations"]
+    },
+    {
+      "name": "salary",
+      "dtype": "float",
+      "required": true,
+      "nullable": false,
+      "min_value": 30000,
+      "max_value": 500000
+    },
+    {
+      "name": "hire_date",
+      "dtype": "date",
+      "required": true,
+      "nullable": false
+    },
+    {
+      "name": "is_active",
+      "dtype": "boolean",
+      "required": true,
+      "nullable": false
+    }
+  ]
+}
