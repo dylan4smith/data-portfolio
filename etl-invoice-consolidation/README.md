@@ -4,7 +4,7 @@
 
 Mid-size companies that work with multiple vendors often receive invoice data in different formats — varying column names, date formats, currencies, and payment status labels. Manually reconciling these into a single source of truth is tedious, error-prone, and blocks timely financial reporting.
 
-This pipeline automates the ingestion, normalization, and consolidation of invoice data from multiple vendor CSV sources into a unified DuckDB analytical database.
+This pipeline automates the ingestion, normalization, and consolidation of invoice data from multiple vendor CSV sources into a unified SQLite analytical database.
 
 ## Approach
 
