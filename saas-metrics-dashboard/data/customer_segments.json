@@ -1,0 +1,30 @@
+[
+  {
+    "segment": "Enterprise",
+    "customers": 28,
+    "mrr_share": 0.42,
+    "churn_rate": 0.015,
+    "avg_contract_months": 18
+  },
+  {
+    "segment": "Mid-Market",
+    "customers": 67,
+    "mrr_share": 0.33,
+    "churn_rate": 0.035,
+    "avg_contract_months": 12
+  },
+  {
+    "segment": "SMB",
+    "customers": 112,
+    "mrr_share": 0.2,
+    "churn_rate": 0.065,
+    "avg_contract_months": 6
+  },
+  {
+    "segment": "Startup",
+    "customers": 43,
+    "mrr_share": 0.05,
+    "churn_rate": 0.09,
+    "avg_contract_months": 3
+  }
+]
