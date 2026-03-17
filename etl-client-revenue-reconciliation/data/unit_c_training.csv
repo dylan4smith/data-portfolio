@@ -1,0 +1,84 @@
+client_id,client_name,service,amount_usd,date,region,payment_status,notes
+C-1003,Coastal Realty Group,Implementation,42369.94,2025-10-08,South,overdue,
+C-1001,Greenfield Organic Foods,Training,19472.32,2025-05-03,South,overdue,
+C-1001,Greenfield Organic Foods,Analytics,23676.53,2025-11-20,East,paid,Renewal
+C-1010,Evergreen Consulting Group,Advisory,9241.81,2025-08-02,West,overdue,  
+C-1009,Bridgeport Logistics,Advisory,35602.14,2025-09-17,West,overdue,New engagement
+C-1006,Riverside Manufacturing Co,Advisory,33881.93,2025-05-10,West,pending,Renewal
+C-1006,Riverside Manufacturing Co,Training,2950.77,2025-03-10,Midwest,overdue,N/A
+C-1008,Crestview Hospitality,Training,9020.23,2025-11-20,West,paid,N/A
+C-1008,Crestview Hospitality,Training,9020.23,2025-11-20,West,paid,N/A
+C-1004,Pinnacle Software Solutions,Analytics,35808.81,2025-01-23,Midwest,paid,Renewal
+C-1001,Greenfield Organic Foods,Advisory,9408.55,2025-11-28,West,pending,N/A
+C-1007,Beacon Financial Advisors,Training,33705.54,2025-07-24,Midwest,pending,Quarterly review
+C-1009,Bridgeport Logistics,Implementation,36250.52,2025-05-17,South,overdue,
+C-1006,Riverside Manufacturing Co,Training,4523.03,2025-02-22,Midwest,overdue,Renewal
+C-1008,Crestview Hospitality,Support,20673.71,2025-06-29,Midwest,overdue,  
+C-1001,Greenfield Organic Foods,Implementation,30532.09,2025-02-08,Midwest,pending,  
+C-1003,  Coastal Realty Group  ,Support,30835.91,2025-11-08,West,pending,Quarterly review
+C-1010,Evergreen Consulting Group,Advisory,27624.17,2025-01-17,South,overdue,Renewal
+C-1009,Bridgeport Logistics,Advisory,18513.5,2025-07-07,Midwest,overdue,Quarterly review
+C-1008,Crestview Hospitality,Training,18027.44,2025-09-23,West,overdue,Renewal
+C-1010,Evergreen Consulting Group,Advisory,31535.15,2025-05-27,East,pending,
+C-1008,  Crestview Hospitality  ,Analytics,36662.58,2025-02-14,Midwest,pending,N/A
+C-1005,Metro Health Partners,Advisory,32319.6,2025-03-22,East,overdue,Renewal
+C-1003,Coastal Realty Group,Training,35776.41,2025-05-02,Midwest,paid,  
+C-1009,Bridgeport Logistics,Training,27925.73,2025-03-08,West,paid,Renewal
+C-1007,Beacon Financial Advisors,Analytics,4245.03,2025-10-22,West,pending,New engagement
+C-1009,Bridgeport Logistics,Advisory,26862.58,2025-11-24,South,paid,  
+C-1009,Bridgeport Logistics,Analytics,14381.48,2025-03-20,Midwest,paid,N/A
+C-1002,Summit Peak Athletics,Analytics,9637.28,2025-05-09,Midwest,overdue,Quarterly review
+C-1009,Bridgeport Logistics,Analytics,8419.98,2025-11-25,East,overdue,Quarterly review
+C-1010,Evergreen Consulting Group,Analytics,37310.4,2025-01-22,West,paid,
+C-1004,Pinnacle Software Solutions,Analytics,19329.82,2025-10-20,West,overdue,New engagement
+C-1005,Metro Health Partners,Advisory,11774.63,2025-09-05,South,overdue,Renewal
+C-1007,Beacon Financial Advisors,Support,21435.45,2025-09-05,East,pending,Renewal
+C-1006,Riverside Manufacturing Co,Advisory,6753.71,2025-07-24,West,pending,Renewal
+C-1004,Pinnacle Software Solutions,Implementation,5259.71,2025-03-14,South,pending,  
+C-1010,Evergreen Consulting Group,Support,9352.7,2025-06-10,South,paid,  
+C-1002,Summit Peak Athletics,Advisory,23239.56,2025-07-21,East,paid,  
+C-1010,Evergreen Consulting Group,Support,30590.91,2025-12-01,West,pending,
+C-1007,Beacon Financial Advisors,Advisory,2990.67,2025-07-07,East,paid,Renewal
+C-1008,Crestview Hospitality,Training,13307.71,2025-10-09,West,overdue,Quarterly review
+C-1006,Riverside Manufacturing Co,Analytics,42313.74,2025-10-13,East,paid,  
+C-1006,Riverside Manufacturing Co,Analytics,42313.74,2025-10-13,East,paid,  
+C-1001,Greenfield Organic Foods,Analytics,32398.04,2025-03-12,South,pending,Quarterly review
+C-1010,Evergreen Consulting Group,Analytics,8150.09,2025-06-13,Midwest,overdue,  
+C-1010,Evergreen Consulting Group,Training,21895.27,2025-06-03,Midwest,paid,Renewal
+C-1001,  Greenfield Organic Foods  ,Training,21881.97,2025-11-02,East,overdue,N/A
+C-1010,Evergreen Consulting Group,Advisory,7502.13,2025-07-14,East,overdue,
+C-1008,Crestview Hospitality,Analytics,19426.33,2025-06-10,East,pending,New engagement
+C-1001,Greenfield Organic Foods,Training,7075.63,2025-12-28,Midwest,paid,N/A
+C-1003,Coastal Realty Group,Support,41133.46,2025-08-24,Midwest,pending,N/A
+C-1004,Pinnacle Software Solutions,Implementation,13276.28,2025-05-07,East,pending,Renewal
+C-1008,Crestview Hospitality,Analytics,22111.35,2025-06-12,Midwest,overdue,Renewal
+C-1007,Beacon Financial Advisors,Advisory,43002.79,2025-06-26,Midwest,paid,
+C-1008,Crestview Hospitality,Support,12283.53,2025-12-02,East,pending,Quarterly review
+C-1005,  Metro Health Partners  ,Analytics,5805.97,2025-03-12,East,overdue,Quarterly review
+C-1004,Pinnacle Software Solutions,Implementation,5408.71,2025-01-27,South,pending,
+C-1004,Pinnacle Software Solutions,Implementation,5408.71,2025-01-27,South,pending,
+C-1009,Bridgeport Logistics,Support,18903.93,2025-03-22,South,pending,N/A
+C-1001,Greenfield Organic Foods,Implementation,29701.14,2025-02-15,West,paid,Quarterly review
+C-1001,  Greenfield Organic Foods  ,Analytics,35670.27,2025-07-23,Midwest,paid,
+C-1006,Riverside Manufacturing Co,Training,20991.36,2025-05-26,South,overdue,Quarterly review
+C-1002,Summit Peak Athletics,Support,8149.75,2025-06-19,Midwest,pending,N/A
+C-1010,Evergreen Consulting Group,Advisory,34320.44,2025-12-12,South,paid,New engagement
+C-1002,  Summit Peak Athletics  ,Training,44194.15,2025-04-05,Midwest,pending,Quarterly review
+C-1005,Metro Health Partners,Implementation,14285.62,2025-06-18,West,overdue,Renewal
+C-1002,Summit Peak Athletics,Support,14499.48,2025-08-27,Midwest,pending,N/A
+C-1004,Pinnacle Software Solutions,Analytics,43123.86,2025-04-23,East,pending,New engagement
+C-1009,Bridgeport Logistics,Analytics,34323.42,2025-08-30,East,overdue,Quarterly review
+C-1002,Summit Peak Athletics,Advisory,20656.91,2025-09-27,Midwest,overdue,
+C-1009,Bridgeport Logistics,Analytics,9894.9,2025-09-16,East,overdue,Quarterly review
+C-1004,Pinnacle Software Solutions,Analytics,22508.43,2025-10-26,South,overdue,
+C-1010,  Evergreen Consulting Group  ,Support,25587.08,2025-01-30,Midwest,overdue,N/A
+C-1004,  Pinnacle Software Solutions  ,Advisory,4213.3,2025-10-24,Midwest,pending,N/A
+C-1002,Summit Peak Athletics,Training,2396.33,2025-08-30,East,pending,Quarterly review
+C-1007,Beacon Financial Advisors,Analytics,39263.29,2025-08-18,South,pending,
+C-1006,Riverside Manufacturing Co,Implementation,8852.84,2025-03-02,South,overdue,  
+C-1001,Greenfield Organic Foods,Implementation,21372.17,2025-06-02,South,overdue,  
+C-1006,Riverside Manufacturing Co,Training,13128.59,2025-03-21,West,overdue,
+C-1001,Greenfield Organic Foods,Advisory,10067.59,2025-05-04,West,paid,New engagement
+C-1001,Greenfield Organic Foods,Support,20314.36,2025-07-25,East,overdue,
+C-1010,Evergreen Consulting Group,Implementation,26408.89,2025-06-13,Midwest,overdue,Quarterly review
+C-1009,Bridgeport Logistics,Implementation,19196.65,2025-04-24,West,pending,  

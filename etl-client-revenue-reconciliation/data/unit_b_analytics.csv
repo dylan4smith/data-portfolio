@@ -1,0 +1,96 @@
+ClientCode,Name,Category,Amount,Date,Location,PaymentStatus
+C-1009,Bridgeport Logistics,Advisory,55342.27,2025-09-10,South,pending
+C-1001,Greenfield Organic Foods,Analytics,31326.31,2025-02-16,West,pending
+C-1005,Metro Health Partners,Training,9626.64,2025-10-23,South,Pending
+C-1010,Evergreen Consulting Group,Advisory,78000.24,2025-08-12,South,PAID
+C-1002,Summit Peak Athletics,Support,42927.42,2025-03-24,South,PAID
+C-1008,Crestview Hospitality,Advisory,41169.47,2025-02-15,South,Overdue
+C-1001,Greenfield Organic Foods,Training,104977.26,2025-12-03,West,PAID
+C-1008,Crestview Hospitality,Implementation,55834.71,2025-11-17,Midwest,Paid
+C-1008,Crestview Hospitality,Analytics,60741.86,2025-12-24,East,Paid
+C-1001,Greenfield Organic Foods,Advisory,51918.93,2025-10-10,South,Pending
+C-1003,Coastal Realty Group,Analytics,112255.1,2025-09-13,Midwest,Overdue
+C-1008,Crestview Hospitality,Training,57530.44,2025-05-05,East,Pending
+C-1003,Coastal Realty Group,Support,36768.45,2025-02-05,Midwest,PAID
+C-1005,Metro Health Partners,Implementation,71691.19,2025-10-28,South,PAID
+C-1009,Bridgeport Logistics,Implementation,48379.16,2025-10-06,East,Overdue
+C-1007,Beacon Financial Advisors,Training,41590.28,2025-01-23,South,PAID
+C-1003,Coastal Realty Group,Analytics,115954.81,2025-09-11,Midwest,Pending
+C-1008,Crestview Hospitality,Advisory,65484.37,2025-02-21,East,PAID
+C-1003,Coastal Realty Group,Support,58991.42,2025-02-08,South,Overdue
+C-1009,Bridgeport Logistics,Analytics,114726.05,2025-07-14,West,PAID
+C-1005,Metro Health Partners,Advisory,90878.13,2025-04-27,West,PAID
+C-1001,Greenfield Organic Foods,Support,42303.09,2025-01-24,Midwest,Paid
+C-1009,Bridgeport Logistics,Implementation,70081.73,2025-07-30,East,Pending
+C-1010,Evergreen Consulting Group,Implementation,32695.43,2025-12-16,East,pending
+C-1005,Metro Health Partners,Support,6080.7,2025-12-08,East,PAID
+C-1010,Evergreen Consulting Group,Support,78477.95,2025-06-03,South,PAID
+C-1007,Beacon Financial Advisors,Analytics,17265.13,2025-09-05,Midwest,PAID
+C-1005,Metro Health Partners,Support,117463.62,2025-01-12,West,PAID
+C-1001,Greenfield Organic Foods,Implementation,90694.8,2025-11-07,Midwest,Overdue
+C-1005,Metro Health Partners,Advisory,91891.39,2025-12-14,West,Pending
+C-1010,Evergreen Consulting Group,Support,89221.37,2025-07-06,Midwest,Paid
+C-1003,Coastal Realty Group,Analytics,105792.97,2025-10-04,Midwest,Overdue
+C-1008,Crestview Hospitality,Advisory,90854.33,2025-06-01,South,Overdue
+C-1004,Pinnacle Software Solutions,Analytics,88284.92,2025-12-13,Midwest,PAID
+C-1005,Metro Health Partners,Support,19212.7,2025-10-02,South,Overdue
+C-1002,Summit Peak Athletics,Analytics,31889.52,2025-12-12,Midwest,Paid
+C-1002,Summit Peak Athletics,Training,99743.37,2025-11-22,West,Overdue
+C-1005,Metro Health Partners,Analytics,18353.86,2025-09-10,East,Pending
+C-1009,Bridgeport Logistics,Training,72544.14,2025-08-03,West,Pending
+C-1005,Metro Health Partners,Training,84382.28,2025-01-17,South,Pending
+C-1002,Summit Peak Athletics,Advisory,47243.52,2025-12-18,South,Overdue
+C-1008,Crestview Hospitality,Advisory,81218.4,2025-02-16,West,pending
+C-1003,Coastal Realty Group,Implementation,28598.64,2025-10-17,East,pending
+C-1003,Coastal Realty Group,Implementation,5326.09,2025-11-02,Midwest,Pending
+C-1001,Greenfield Organic Foods,Analytics,-6708.94,2025-03-09,Midwest,Pending
+C-1003,Coastal Realty Group,Training,65499.84,2025-08-04,South,Paid
+C-1002,Summit Peak Athletics,Advisory,62941.45,2025-08-20,Midwest,pending
+C-1001,Greenfield Organic Foods,Advisory,102439.33,2025-09-03,South,PAID
+C-1002,Summit Peak Athletics,Implementation,74954.2,2025-06-14,Midwest,Paid
+C-1006,Riverside Manufacturing Co,Support,119382.19,2025-07-15,South,pending
+C-1002,Summit Peak Athletics,Implementation,79855.42,2025-12-02,South,pending
+C-1006,Riverside Manufacturing Co,Support,50853.97,2025-08-21,South,Paid
+C-1003,Coastal Realty Group,Advisory,111143.28,2025-12-18,West,Paid
+C-1006,Riverside Manufacturing Co,Analytics,68982.63,2025-03-08,Midwest,pending
+C-1007,Beacon Financial Advisors,Support,116365.84,2025-01-27,Midwest,pending
+C-1003,Coastal Realty Group,Support,60451.78,2025-12-03,Midwest,Paid
+C-1004,Pinnacle Software Solutions,Analytics,102192.84,2025-08-08,West,pending
+C-1005,Metro Health Partners,Support,-25747.85,2025-01-15,Midwest,Overdue
+C-1010,Evergreen Consulting Group,Advisory,51090.2,2025-12-03,West,Pending
+C-1007,Beacon Financial Advisors,Support,44203.04,2025-08-21,Midwest,Overdue
+C-1002,Summit Peak Athletics,Advisory,22891.69,2025-01-27,West,pending
+C-1008,Crestview Hospitality,Implementation,55835.08,2025-11-07,West,Overdue
+C-1010,Evergreen Consulting Group,Advisory,65597.42,2025-09-07,East,Overdue
+C-1001,Greenfield Organic Foods,Implementation,39663.23,2025-04-15,Midwest,Pending
+C-1008,Crestview Hospitality,Analytics,25204.9,2025-08-09,East,PAID
+C-1006,Riverside Manufacturing Co,Training,50663.19,2025-02-06,West,Paid
+C-1006,Riverside Manufacturing Co,Training,54367.69,10/22/2025,Midwest,PAID
+C-1006,Riverside Manufacturing Co,Training,97152.05,2025-03-29,Midwest,pending
+C-1004,Pinnacle Software Solutions,Advisory,72720.2,2025-08-12,South,pending
+C-1004,Pinnacle Software Solutions,Analytics,94598.55,2025-06-20,West,Paid
+C-1006,Riverside Manufacturing Co,Implementation,88648.6,2025-06-29,West,Pending
+C-1010,Evergreen Consulting Group,Implementation,92424.76,2025-03-20,South,Paid
+C-1010,Evergreen Consulting Group,Analytics,83330.35,2025-08-18,Midwest,pending
+C-1003,Coastal Realty Group,Support,12852.92,2025-08-14,Midwest,PAID
+C-1002,Summit Peak Athletics,Advisory,58100.39,2025-06-08,Midwest,Paid
+C-1002,Summit Peak Athletics,Training,73319.18,2025-11-11,West,PAID
+C-1004,Pinnacle Software Solutions,Implementation,74575.67,2025-06-14,West,pending
+C-1006,Riverside Manufacturing Co,Advisory,63023.14,2025-02-13,East,Pending
+C-1009,Bridgeport Logistics,Support,75127.62,2025-09-25,Midwest,Overdue
+C-1010,Evergreen Consulting Group,Advisory,95761.1,2025-01-27,Midwest,Overdue
+C-1005,Metro Health Partners,Implementation,88229.37,2025-05-10,Midwest,pending
+C-1006,Riverside Manufacturing Co,Implementation,116285.1,2025-06-08,West,PAID
+C-1006,Riverside Manufacturing Co,Advisory,82063.39,03/07/2025,South,pending
+C-1005,Metro Health Partners,Training,114384.47,2025-04-03,East,Overdue
+C-1002,Summit Peak Athletics,Analytics,102109.26,2025-06-01,West,Paid
+C-1010,Evergreen Consulting Group,Implementation,73683.34,2025-03-09,East,Pending
+C-1003,Coastal Realty Group,Implementation,10024.63,2025-08-13,South,Overdue
+C-1008,Crestview Hospitality,Training,66411.28,2025-04-30,East,Overdue
+C-1008,Crestview Hospitality,Analytics,93485.43,2025-08-25,South,PAID
+C-1010,Evergreen Consulting Group,Training,105395.22,2025-03-12,Midwest,Paid
+C-1009,Bridgeport Logistics,Support,37782.25,2025-03-05,South,Pending
+C-1007,Beacon Financial Advisors,Training,113837.53,2025-02-16,Midwest,Pending
+C-1007,Beacon Financial Advisors,Advisory,48005.57,2025-09-15,Midwest,PAID
+C-1002,Summit Peak Athletics,Implementation,43558.39,2025-11-29,West,Pending
+C-1003,Coastal Realty Group,Advisory,-58947.66,2025-12-28,West,pending

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Pipeline outputs (regenerated on each run)
+output/*.sqlite
+output/*.log
+output/*.csv
+output/*.txt
+
+# OS
+.DS_Store
+Thumbs.db
