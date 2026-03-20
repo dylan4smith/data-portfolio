@@ -1,0 +1,21 @@
+project_id,client,project_type,start_date,end_date,status,practice_area
+P001,Cascade Retail Holdings,Customer Experience Redesign,2024-09-07,2024-12-28,Completed,Technology Advisory
+P002,Ironclad Insurance,Revenue Growth Strategy,2024-11-18,2025-01-06,Completed,Data & Analytics
+P003,Cascade Retail Holdings,Digital Transformation,2024-09-21,2024-10-19,Completed,Risk & Compliance
+P004,Clearview Telecom,Market Analysis,2024-07-22,2024-08-19,Completed,Strategy & Operations
+P005,Greenfield Agriculture,Supply Chain Review,2024-05-01,2024-07-17,Completed,Strategy & Operations
+P006,Crestline Hospitality,Process Optimization,2024-09-17,2024-10-29,Completed,Risk & Compliance
+P007,Cascade Retail Holdings,System Implementation,2024-12-05,2025-02-13,Completed,Risk & Compliance
+P008,Vertex Manufacturing,Customer Experience Redesign,2024-11-29,2025-02-14,Completed,Financial Consulting
+P009,Horizon Media Group,Data Migration,2024-07-07,2024-08-25,Completed,Strategy & Operations
+P010,Northstar Pharmaceuticals,Data Migration,2024-09-29,2025-01-26,Completed,Financial Consulting
+P011,Ironclad Insurance,Customer Experience Redesign,2024-04-28,2024-10-20,Completed,Strategy & Operations
+P012,Meridian Health Systems,Data Migration,2024-09-21,2024-11-09,Completed,Data & Analytics
+P013,Cascade Retail Holdings,Market Analysis,2024-11-16,2025-01-11,Completed,Financial Consulting
+P014,Vertex Manufacturing,System Implementation,2024-11-23,2025-02-08,Completed,Strategy & Operations
+P015,Ironclad Insurance,Revenue Growth Strategy,2024-05-21,2024-06-25,Completed,Risk & Compliance
+P016,Sterling Automotive,Process Optimization,2024-05-18,2024-08-03,Completed,Data & Analytics
+P017,Summit Technology Inc,Organizational Restructuring,2024-12-03,2025-02-11,Completed,Financial Consulting
+P018,Crestline Hospitality,Process Optimization,2024-06-24,2024-10-14,Completed,Strategy & Operations
+P019,Summit Technology Inc,System Implementation,2024-11-19,2025-02-18,Completed,Financial Consulting
+P020,Greenfield Agriculture,Customer Experience Redesign,2024-12-06,2025-01-31,Completed,Data & Analytics
