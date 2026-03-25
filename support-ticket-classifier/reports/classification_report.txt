@@ -1,0 +1,14 @@
+Support Ticket Classifier — Test Set Evaluation
+=======================================================
+
+              precision    recall  f1-score   support
+
+     Account       0.97      0.99      0.98        88
+     Billing       0.97      0.98      0.97        86
+     Product       0.99      0.96      0.97        72
+    Shipping       0.96      0.96      0.96        77
+   Technical       0.97      0.96      0.97        77
+
+    accuracy                           0.97       400
+   macro avg       0.97      0.97      0.97       400
+weighted avg       0.97      0.97      0.97       400
